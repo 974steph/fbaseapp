@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "271591374025",
+    "firebase_url": "https://fbapp-47731.firebaseio.com",
+    "project_id": "fbapp-47731",
+    "storage_bucket": "fbapp-47731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271591374025:android:23f78b69dda57d66",
+        "android_client_info": {
+          "package_name": "com.tolui.fbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271591374025-cmia5lramffu6srsd83bi5grti4a4n1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtkZmFvRRczZTN6dNJLNloXW3FbwFuMFo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
